@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		2C7C0D0027B30FD000D81F54 /* TimeConversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeConversion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C7C0D0127B32A6D00D81F54 /* TBS Problem.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "TBS Problem.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		2C7C0CF927B30FA400D81F54 = {
 			isa = PBXGroup;
 			children = (
+				2C7C0D0127B32A6D00D81F54 /* TBS Problem.playground */,
 				2C7C0D0027B30FD000D81F54 /* TimeConversion.playground */,
 			);
 			sourceTree = "<group>";

@@ -4,6 +4,27 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>TBS Problem (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>TBS Problem (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>TBS Problem (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>TimeConversion (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
