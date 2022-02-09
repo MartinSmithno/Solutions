@@ -13,3 +13,5 @@ func tbsp(c: Double, d: Double, cities: [[Int]]) -> Void {
     // Write your code here
 
 }
+
+print(0.95 ^ 5)
