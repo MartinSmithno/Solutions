@@ -7,7 +7,7 @@ import Foundation
  * The function accepts INTEGER_ARRAY grades as parameter.
  */
 
-func gradingStudents(grades: [Int]) {
+func gradingStudents(grades: [Int]) -> [Int] {
     // Write your code here
 
     var result : [Int] = []
@@ -15,15 +15,15 @@ func gradingStudents(grades: [Int]) {
     for each in grades {
         if each <= 37 {
             result.append(each)
-        } else if each%10 == 8 {
+        } else if each%5 == 3 {
             result.append(each+2)
-        } else if each%10 == 9 {
+        } else if each%5 == 4 {
             result.append(each+1)
         }else {
             result.append(each)
         }
     }
-    print( result )
+    return result
     
 }
 
